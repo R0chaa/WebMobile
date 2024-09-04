@@ -1,0 +1,30 @@
+html, body {
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#content {
+    background-color: #3b3b3b;
+    height: 100%;
+    width: 50%;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 20px;
+}
